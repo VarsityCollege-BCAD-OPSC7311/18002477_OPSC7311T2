@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GoalFitApp</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="todo">TODO</string>
+    <string name="goals">Goals</string>
+    <string name="schedule">Schedule</string>
+    <string name="statistics">Statistics</string>
+    <string name="exercises">Exercises</string>
+    <string name="food">Food</string>
+    <string name="Statistics_Construct">The statics feature is under construction</string>
+    <string name="Goals_Construct">The Goals feature is under construction</string>
+    <string name="Profile_Info">Profile</string>
+</resources>

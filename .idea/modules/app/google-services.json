@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295620939404",
+    "firebase_url": "https://goalfitapp-ad93a.firebaseio.com",
+    "project_id": "goalfitapp-ad93a",
+    "storage_bucket": "goalfitapp-ad93a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295620939404:android:06e395f6f077fbb13ab5a9",
+        "android_client_info": {
+          "package_name": "com.cedric.goalfitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295620939404-ae7031oejpl5s4u0sfq1oqim3dt50qqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cedric.goalfitapp",
+            "certificate_hash": "04dc9c8a3826e626712f21217f899a7231792a91"
+          }
+        },
+        {
+          "client_id": "295620939404-4d6e2dtuie62l094gkgraso6k8dr86v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsbqsVMQONxeMxmSPOFXh75Z8AmRl7qTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295620939404-4d6e2dtuie62l094gkgraso6k8dr86v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
